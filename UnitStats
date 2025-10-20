@@ -93,27 +93,27 @@
     "MaxPlaced": 2,
     "BaseStats": {
       "Range": 15,
-"RangeBoost": 0.02
+      "RangeBoost": 1.02
     },
     "UpgradeStats": [
       {
         "Range": 15,
-"RangeBoost": 0.04
+        "RangeBoost": 1.04,
         "UpgradePrice": 450
       },
       {
         "Range": 16,
-"RangeBoost": 0.06
+        "RangeBoost": 1.06,
         "UpgradePrice": 650
       },
       {
         "Range": 17,
-"RangeBoost": 0.08
+        "RangeBoost": 1.08,
         "UpgradePrice": 850
       },
       {
         "Range": 18,
-"RangeBoost": 0.10
+        "RangeBoost": 1.10,
         "UpgradePrice": 1050
       }
     ],
@@ -944,15 +944,15 @@
     },
     "UpgradeStats": [
       {
-      "Money": 450,
+        "Money": 450,
         "UpgradePrice": 900
       },
       {
-      "Money": 1000,
+        "Money": 1000,
         "UpgradePrice": 2000
       },
       {
-      "Money": 1600,
+        "Money": 1600,
         "UpgradePrice": 3250
       }
     ],
@@ -969,30 +969,30 @@
     "MaxPlaced": 3,
     "BaseStats": {
       "Range": 15,
-      "RangeBoost": .03,
-      "DamageBoost": .03,
-      "CooldownBoost": .03
+      "RangeBoost": 1.03,
+      "DamageBoost": 1.03,
+      "CooldownBoost": 0.97
     },
     "UpgradeStats": [
       {
         "Range": 16,
-      "RangeBoost": .03,
-      "DamageBoost": .03,
-      "CooldownBoost": .03
+        "RangeBoost": 1.03,
+        "DamageBoost": 1.03,
+        "CooldownBoost": 0.97,
         "UpgradePrice": 600
       },
       {
         "Range": 17,
-      "RangeBoost": .03,
-      "DamageBoost": .03,
-      "CooldownBoost": .03
+        "RangeBoost": 1.03,
+        "DamageBoost": 1.03,
+        "CooldownBoost": 0.97,
         "UpgradePrice": 800
       },
       {
         "Range": 18,
-      "RangeBoost": .03,
-      "DamageBoost": .03,
-      "CooldownBoost": .03
+        "RangeBoost": 1.03,
+        "DamageBoost": 1.03,
+        "CooldownBoost": 0.97,
         "UpgradePrice": 1050
       }
     ],
@@ -1371,27 +1371,27 @@
     "MaxPlaced": 2,
     "BaseStats": {
       "Range": 15,
-"RangeBoost": 0.02
+      "RangeBoost": 1.02
     },
     "UpgradeStats": [
       {
         "Range": 15,
-"RangeBoost": 0.04,
+        "RangeBoost": 1.04,
         "UpgradePrice": 450
       },
       {
         "Range": 16,
-"RangeBoost": 0.06,
+        "RangeBoost": 1.06,
         "UpgradePrice": 650
       },
       {
         "Range": 17,
-"RangeBoost": 0.08,
+        "RangeBoost": 1.08,
         "UpgradePrice": 850
       },
       {
         "Range": 18,
-"RangeBoost": 0.10,
+        "RangeBoost": 1.10,
         "UpgradePrice": 1050
       }
     ],
@@ -1946,30 +1946,30 @@
     "MaxPlaced": 3,
     "BaseStats": {
       "Range": 15,
-        "RangeBoost": .03,
-        "DamageBoost": .03,
-        "CooldownBoost": .03
+      "RangeBoost": 1.03,
+      "DamageBoost": 1.03,
+      "CooldownBoost": 0.97
     },
     "UpgradeStats": [
       {
         "Range": 16,
-        "RangeBoost": .03,
-        "DamageBoost": .03,
-        "CooldownBoost": .03,
+        "RangeBoost": 1.03,
+        "DamageBoost": 1.03,
+        "CooldownBoost": 0.97,
         "UpgradePrice": 600
       },
       {
         "Range": 17,
-        "RangeBoost": .03,
-        "DamageBoost": .03,
-        "CooldownBoost": .03,
+        "RangeBoost": 1.03,
+        "DamageBoost": 1.03,
+        "CooldownBoost": 0.97,
         "UpgradePrice": 800
       },
       {
         "Range": 18,
-        "RangeBoost": .03,
-        "DamageBoost": .03,
-        "CooldownBoost": .03,
+        "RangeBoost": 1.03,
+        "DamageBoost": 1.03,
+        "CooldownBoost": 0.97,
         "UpgradePrice": 1050
       }
     ],
@@ -1985,19 +1985,19 @@
     "Element": "Neutral",
     "MaxPlaced": 3,
     "BaseStats": {
-"Money": 200
+      "Money": 200
     },
     "UpgradeStats": [
       {
-"Money": 450,
+        "Money": 450,
         "UpgradePrice": 900
       },
       {
-"Money": 1000,
+        "Money": 1000,
         "UpgradePrice": 2000
       },
       {
-"Money": 1600,
+        "Money": 1600,
         "UpgradePrice": 3250
       }
     ],
@@ -2430,27 +2430,27 @@
     "MaxPlaced": 2,
     "BaseStats": {
       "Range": 20,
-"DamageBoost": 0.03,
+      "DamageBoost": 1.03
     },
     "UpgradeStats": [
       {
         "Range": 20,
-"DamageBoost": 0.06,
+        "DamageBoost": 1.06,
         "UpgradePrice": 800
       },
       {
         "Range": 20,
-"DamageBoost": 0.09,
+        "DamageBoost": 1.09,
         "UpgradePrice": 1000
       },
       {
         "Range": 20,
-"DamageBoost": 0.12,
+        "DamageBoost": 1.12,
         "UpgradePrice": 1200
       },
       {
         "Range": 20,
-"DamageBoost": 0.15,
+        "DamageBoost": 1.15,
         "UpgradePrice": 1500
       }
     ],
